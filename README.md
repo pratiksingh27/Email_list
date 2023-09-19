@@ -1,5 +1,5 @@
 # Email_list
-day 8 of #20daysjavascript 
+day 8 of #30daysjavascript 
 
 # Submit a Form to Google Sheets | [Demo](https://form-to-google-sheets.surge.sh)
 
